@@ -2,7 +2,9 @@
 
 ENS (Emergency Notification System), 
  For more details <a href="http://ec2-52-34-119-27.us-west-2.compute.amazonaws.com/ENS/ENS.pdf">link</a>
- An emergency notification system refers to a collection of methods that facilitate the one-way dissemination or broadcast of messages to one or many groups of people “notifying” or alerting a group of individuals of pending or existing emergency situation.
+ An emergency notification system refers to a collection of methods that facilitate the one-way dissemination or 
+ broadcast of messages to one or many groups of people “notifying” or alerting a group of individuals of pending or 
+ existing emergency situation.
 
  In a time critical situation (Specially for Women Safety) we need reliable notification system which is easy to use and manage, whose communication methods are highly portable to our day today requirements
 
@@ -45,16 +47,14 @@ to resend the SMS by following the above SMS format.
 
 Create Emergency conference via SMS
 
-Type a new SMS, Format should be “HACKAR CNF  Number1 Number2 Number3 NumberN” and send it to “09227507512”  ,
+Type a new SMS, Format should be “HACKAR CNF  Number1 Number2 Number3 NumberN” and send it to “09227507512”,
 Please add “0” before all emergency mobile/landline numbers.
 Example – “HACKAR CNF 08904111111 07979123456 07070654321 07070654321” and send it to “09227507512”. 
 If message format is correct, It will dial to all numbers and will bring to a single virtual conference
 where all can discuss over the phone and share about problems.
 
-Registration via portal (Assumed, user has a twitter account)
-
 ~~~
-
+ Registration via portal (Assumed, user has a twitter account)
  Visit to <a href="http://ec2-52-34-119-27.us-west-2.compute.amazonaws.com/ENS/">portal</a>
  
  ~~~
