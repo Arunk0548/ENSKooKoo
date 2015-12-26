@@ -52,7 +52,12 @@ If message format is correct, It will dial to all numbers and will bring to a si
 where all can discuss over the phone and share about problems.
 
 Registration via portal (Assumed, user has a twitter account)
-Visit to <a href="http://ec2-52-34-119-27.us-west-2.compute.amazonaws.com/ENS/">LINK</a>
+
+~~~
+
+ Visit to <a href="http://ec2-52-34-119-27.us-west-2.compute.amazonaws.com/ENS/">portal</a>
+ 
+ ~~~
 Click on Connect with Twitter button.
 It will redirect to Twitter authentication portal, Login with your twitter user id and password.
 (note: this ENS portal is not collecting any your personal data, it is using for authentication)
