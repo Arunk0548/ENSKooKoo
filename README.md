@@ -52,7 +52,8 @@ where all can discuss over the phone and share about problems.
 Registration via portal (Assumed, user has a twitter account)
 Visit to http://ec2-52-34-119-27.us-west-2.compute.amazonaws.com/ENS/
 Click on Connect with Twitter button.
-It will redirect to Twitter authentication portal, Login with your twitter user id and password. (note: this ENS portal is not collecting any your personal data, it is using for authentication)
+It will redirect to Twitter authentication portal, Login with your twitter user id and password.
+(note: this ENS portal is not collecting any your personal data, it is using for authentication)
 On successful login, Twitter.com portal will redirect to ENS dashboard portal.
 Portal Registration contd..
 In dashboard, there is option to
@@ -75,7 +76,8 @@ After disconnecting the call, ENS will check for your identity, if your registra
 It will dial to all your emergency numbers at same time and on receive of call, 
 it will play your recorded voice message and ask them to take necessary action.
 It will send  your registered details via an SMS to all emergency numbers saying your are in trouble.
-Also, if you have authorized the ENS portal to access your twitter account, it will post recorded message to your Twitter wall.
+Also, if you have authorized the ENS portal to access your twitter account, 
+it will post recorded message to your Twitter wall.
 
 
 
