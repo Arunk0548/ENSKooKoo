@@ -1,5 +1,7 @@
 # ENSKooKoo
-ENS (Emergency Notification System)
+
+ENS (Emergency Notification System), 
+ For more details <a href="http://ec2-52-34-119-27.us-west-2.compute.amazonaws.com/ENS/ENS.pdf">link</a>
  An emergency notification system refers to a collection of methods that facilitate the one-way dissemination or broadcast of messages to one or many groups of people “notifying” or alerting a group of individuals of pending or existing emergency situation.
 
  In a time critical situation (Specially for Women Safety) we need reliable notification system which is easy to use and manage, whose communication methods are highly portable to our day today requirements
@@ -50,7 +52,7 @@ If message format is correct, It will dial to all numbers and will bring to a si
 where all can discuss over the phone and share about problems.
 
 Registration via portal (Assumed, user has a twitter account)
-Visit to http://ec2-52-34-119-27.us-west-2.compute.amazonaws.com/ENS/
+Visit to <a href="http://ec2-52-34-119-27.us-west-2.compute.amazonaws.com/ENS/">LINK</a>
 Click on Connect with Twitter button.
 It will redirect to Twitter authentication portal, Login with your twitter user id and password.
 (note: this ENS portal is not collecting any your personal data, it is using for authentication)
